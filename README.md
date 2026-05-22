@@ -240,7 +240,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ## Frontend
 Deployed on Vercel:  
-https://your-vercel-link.vercel.app
+https://smartmart-final.vercel.app/
 
 ## Backend
 Deployed on Render:  
